@@ -1,0 +1,17 @@
+{
+  "name": "xmtp-notifier",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xmtp/xmtp-js": "^13.0.0",
+    "ethers": "^6.13.2"
+  }
+}
